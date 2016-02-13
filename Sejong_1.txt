@@ -38,16 +38,16 @@
 동	est
 서	ouest
 가족	famille
-부모님	famille
+부모님	parents
 조부모님	grands parents
 손자	 petit fils
 손녀	petite fille
 이사 하다	déménager
-길례지만, 무슨 일을 하세요?	excusez moi, quel travail exercez vous ?
-성함이 어떻게 뒤세요?	quel est votre nom ? 성함=nom, honorifique. 뒤세요=devenir
+실례지만, 무슨 일을 하세요?	excusez moi, quel travail exercez vous ?
+성함이 어떻게 되세요?	quel est votre nom ? 성함=nom, honorifique. 되세요=devenir
 저는 운동은 좋아해요	j'aime faire du sport
 발사!	lancement!
-소로	mutuellement, l'un avec l'autre
+서로	mutuellement, l'un avec l'autre
 수업 후에, 저는 집에 가요	après l'école, je vais à la maison
 어디에서 왔어요	d'où viens-tu ?
 우리는/저희는 세종학당어서 한국어를 공부해요	nous étudions le coréen à Sejong hakdang.
@@ -57,15 +57,15 @@
 잠을 자다	dormir
 꿈을 꾸다	rêver un rêve
 춤을 추다	danser une danse
-신을 신다	chausser des chaussures
+신(발)을 신다	chausser des chaussures
 낮잠을 자다	faire une sieste
-늦	tard
+늦게	tard
 늦잠을 자다	faire la grasse matinée
 이야기	histoire
 시장	marché
-정소	lieu
+장소	lieu
 회사	entreprise
-자장	directeur, président
+사장	directeur, président
 도시	ville
 사장님	patron
 쇼핑을 하다	faire du shopping
@@ -87,21 +87,21 @@
 사무실	bureau (lieu)
 달리다 / 달리기를 하다	courir/faire une course (sport)
 읽다	lire
-저는 검퓨터를 (하는것을/하기를) 촣아해요	j'aime utiliser l'ordinateur
+저는 검퓨터를 (하는것을/하기를) 좋아해요	j'aime utiliser l'ordinateur
 요리를 하다	cuisiner
 미식가	gourmet
 대식가	gourmand / qui mange beaucoup
-여러본	vous tous
+여러분	vous tous
 배고프다	avoir faim (lit. le ventre vide)
-부르다 / 배(가)부러요	être rassasié / ne plus avoir faim
+부르다 / 배(가)불러요	être rassasié / ne plus avoir faim
 질문	question
 전화	téléphone
 맞는 답에	la bonne réponse
-친걸하다	être gentil (adj)
+친잘하다	être gentil (adj)
 착하다	avoir bon coeur
 장소	lieu
 회사	entreprise
-연세	âge, honorifique
+연세	âge, honorifique (나이 sinon)
 연세가 어떻게 되세요?	quel âge avez-vous ?
 실례지만 이름이 어떻게 되세요?	excusez-moi, quel est votre nom ?
 오늘은 몇칠 이에요?	quel jour (de l'année) sommes nous aujourd'hui ?
@@ -109,8 +109,8 @@
 책상	bureau
 책장	armoire, bibliothèque
 밥상	table à manger (familier) = 식탁
-책방	librairie
-도사관	bibliothèque
+책방, 서점	librairie
+도서관	bibliothèque
 공책	cahier
 볼팬	stylo bille
 연필	crayon papier
@@ -138,7 +138,7 @@
 낮 12시 / 전오	midi
 밤 12시/자정	minuit
 시작하다	commencer
-소영 하다	nager
+수영 하다	nager
 새벽	aube
 새벽 두 시에	à 2h du matin
 매일	tous les jours
@@ -152,7 +152,7 @@
 놀라다	être surpris
 우울하다	être déprimé
 울다	pleurer
-두려다	craindre
+두렵다	craindre
 술집	bar
 침실	chambre (plus précis que 방)
 처음	commencement
@@ -166,8 +166,8 @@
 포크	fourchette
 모습을	apparence
 수영장	piscine
-위투	manteau
-중강	au milieu
+외투, 코트	manteau
+중간	au milieu
 명함	carte de visite
 시험을 보다	passer un test
 받다	recevoir
@@ -183,7 +183,7 @@
 방법	manière, façon
 요리법	recette de cuisine
 서로 인사 하고 있어요	nous sommes en train de nous saluer
- 악수 하기	se serrer la main
+ 악수 하다	se serrer la main
 다르다	être différents (conj: 달라요)
 모르다	ne pas savoir (conj : 몰라요)
 주말	weekend
@@ -210,10 +210,10 @@
 손목시계	montre bracelet
 벽시계	horloge sur le mur
 오랜만 이에요	ça fait longtemps ! (formule de salutation)
-핸복	bonheur
-오서 오세요!	bienvenue (formule figée)
+행복	bonheur
+어서 오세요!	bienvenue (formule figée)
 드시다	manger (poli)
-맛있게 주드십시어	mangez ! (impératif)
+맛있게 드십시어	mangez ! (impératif)
 숫자	chiffres
 일억	100 Millions
 십억	1 G (1000 millions)
@@ -223,16 +223,16 @@
 양력	calendrier solaire
 음력	calendrier lunaire
 설날	fête du nouvel an
-음뇨수	boisson
+음료수	boisson
 고추	piment
 피망	poivron
 개	classificateur général
 명	classificateur des personnes 
 마리	classificateur des animaux
-생선	classificateur des poissons (aliment)
+생선	poisson (생선 1마리 주세요)
 권	classificateur des livres
 물고기	poisson
-생선 가개	poissonnerie
+생선 가게	poissonnerie
 소설	roman
 만화책	manga
 깎다	baisser (prix), tailler
@@ -240,7 +240,7 @@
 가격	prix
 가격이 얼마예요?	quel est le prix ?
 셔츠	chemise
-짜리	valeur
+짜리	valeur : 오천원짜리 지폐 (nom valeur : 가치)
 비행기	avion
 손님	client, invité
 점원	vendeur (dans un magasin)
@@ -254,8 +254,8 @@
 동물	animal
 드리다	donner (honorifique)
 R-ㄹ까요	demander l'avis (ex. 뭐 드릴까요?)
-아주씨	homme
-아주마니	femme
+아저씨	homme (syn 남자, 남성)
+아주마니	femme (syn 여자, 여성)
 아가씨	demoiselle
 정답	bonne réponse
 되다	devenir
@@ -264,18 +264,18 @@ R-ㄹ까요	demander l'avis (ex. 뭐 드릴까요?)
 불다	souffler
 바람	vent
 demander	묻다
-걱다	marcher
+갇다	marcher
 싣다	charger (qn) / entreposer, mettre
 대	classificateur des objets électriques
 그리고 / R-고	et
 그러나 / R-(으)나	mais
-그러지만, 그러지만 / R-지만	oui mais (attenué)
+그렇지만, 그렇지만 / R-지만	oui mais (attenué)
 그래서 / R-니까	donc/plus
 그러니까	donc/plus (plus justifié)
-그래도 / R-아/어 도	malgré cela
+그래도 / R-아/어 도 / 그럼에도 불구하고	malgré cela
 그러면 / R-(으)면	dans ce cas / condition
 그러면(서) / R-(으)면(서)	en même temps / simultanéité
-그런대 / R-는데 (verbe) / R-(으)ㄴ데 (adj)	en fait, par ailleurs, donc...
+그런데 / R-는데 (verbe) / R-(으)ㄴ데 (adj)	en fait, par ailleurs, donc...
 오른쪽	à droite
 왼쪽	à gauche
 똑바로	tout droit
@@ -287,7 +287,7 @@ demander	묻다
 평화	paix
 결심	résolution
 성공	réussite
-화	feu
+불	feu
 부자	riche
 웃다	sourire
 드시다	manger (hon.)
@@ -298,7 +298,7 @@ demander	묻다
 회의	réunion (travail)
 일과	ce que vous avez fait
 하루	un jour
-주말	semaine
+주말	week-end
 mois	달
 année	해 / 년
 그재	avant hier

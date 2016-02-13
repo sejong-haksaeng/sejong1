@@ -1,5 +1,7 @@
 *.swp
 *~
+~*
+.~*
 src/*.gls
 src/*.aux
 src/*.fdb_latexmk
@@ -7,3 +9,4 @@ src/*.fls
 src/*.log
 src/glossaryentries.tex
 src/flashcards.tex
+src/*.out
