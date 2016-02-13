@@ -1,0 +1,27 @@
+\documentclass{article}
+\usepackage[frenchb]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{kotex}
+\usepackage{parskip}
+\usepackage{multicol}
+\usepackage[hscale=0.9,vscale=0.9]{geometry}
+\setlength{\columnseprule}{0.4pt}
+\usepackage{datetime}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\fancyhf{}
+\rfoot{Page \thepage/\pageref{LastPage}}
+\lfoot{자비에, 2016 -- \url{https://github.com/sejong-haksaeng/sejong1}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\pagestyle{fancy}
+ 
+\begin{document}
+\begin{multicols}{3}
+\input{glossaryentries}
+\end{multicols}
+ 
+\end{document}
+
