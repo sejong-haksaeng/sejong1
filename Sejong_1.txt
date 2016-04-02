@@ -1,541 +1,541 @@
-질문	question
-줄장	voyage d'affaire
-특별하다	être special
-강	fleuve
-포도주	vin
-숲	forêt
-치마	jupe
-딸	fille
-차다	frapper
-많다	etre nombreux
-복습	révision
-소개하다	se présenter
-어휘	vocabulaire
-스물	20
-서른	30
-마흔	40
-쉰	50
-그림	dessin
-그리다 	dessiner
-공화국	république
-대화	conversation
-연구원	chercheur
-사업가	homme d'affaires
-간호사	infirmier
-소방관	pompier
-건축가	architecte
-예술가	artiste
-작가	écrivain
-은행원	banquier
-변호사	avocat
-약사	pharmacien
-우체부	facteur
-엔지니어	ingénieur
-기자	journaliste
-질문한개 있어요	j'ai une question
-북	nord
-남	sud
-동	est
-서	ouest
-가족	famille
-부모님	parents
-조부모님	grands parents
-손자	 petit fils
-손녀	petite fille
-이사 하다	déménager
-실례지만, 무슨 일을 하세요?	excusez moi, quel travail exercez vous ?
-성함이 어떻게 되세요?	quel est votre nom ? 성함=nom, honorifique. 되세요=devenir
-저는 운동은 좋아해요	j'aime faire du sport
-발사!	lancement!
-서로	mutuellement, l'un avec l'autre
-수업 후에, 저는 집에 가요	après l'école, je vais à la maison
-어디에서 왔어요	d'où viens-tu ?
-우리는/저희는 세종학당어서 한국어를 공부해요	nous étudions le coréen à Sejong hakdang.
-나는 한국으로 가요/떠나요	je pars pour la Corée
-따나다	partir, quitter un endroit
-동작	action
-잠을 자다	dormir
-꿈을 꾸다	rêver un rêve
-춤을 추다	danser une danse
-신(발)을 신다	chausser des chaussures
-낮잠을 자다	faire une sieste
-늦게	tard
-늦잠을 자다	faire la grasse matinée
-이야기	histoire
-시장	marché
-장소	lieu
-회사	entreprise
-사장	directeur, président
-도시	ville
-사장님	patron
-쇼핑을 하다	faire du shopping
-사다	acheter
-팔다	vendre
-월요일	lundi
-화요일	mardi
-수요일	mercredi
-목요일	jeudi
-금요일	vendredi
-토요일	samedi
-일요일	dimanche
-쉽다	être facile
-어렵다	être difficile
-서양	occident
-교실	salle de classe
-배우다	apprendre
-가르치다	enseigner
-사무실	bureau (lieu)
-달리다 / 달리기를 하다	courir/faire une course (sport)
-읽다	lire
-저는 검퓨터를 (하는것을/하기를) 좋아해요	j'aime utiliser l'ordinateur
-요리를 하다	cuisiner
-미식가	gourmet
-대식가	gourmand / qui mange beaucoup
-여러분	vous tous
-배고프다	avoir faim (lit. le ventre vide)
-부르다 / 배(가)불러요	être rassasié / ne plus avoir faim
-질문	question
-전화	téléphone
-맞는 답에	la bonne réponse
-친잘하다	être gentil (adj)
-착하다	avoir bon coeur
-장소	lieu
-회사	entreprise
-연세	âge, honorifique (나이 sinon)
-연세가 어떻게 되세요?	quel âge avez-vous ?
-실례지만 이름이 어떻게 되세요?	excusez-moi, quel est votre nom ?
-오늘은 몇칠 이에요?	quel jour (de l'année) sommes nous aujourd'hui ?
-위치	position, localisation
-책상	bureau
-책장	armoire, bibliothèque
-밥상	table à manger (familier) = 식탁
-책방, 서점	librairie
-도서관	bibliothèque
-공책	cahier
-볼팬	stylo bille
-연필	crayon papier
-앞	devant
-뒤	derrière
-옆	à côté
-안	à l'intérieur
-밖	à l'extérieur
-위	sur
-아래/밑	en dessous
-가운데	au milieu
-근처	aux alentours de (littéraire)
-사이	entre
-돈	argent
-정말	beaucoup, vraiment
-종말	fin du monde
-맛있게 (드세요/먹으세요)	bon appetit
-잘 먹겠습니다	je vais bien manger (réponse à bon appétit)
-저는 x 하고 y 사이에 있어요	je suis entre x et y
-침대	lit
-오늘은 날씨가 어때요? 흐려요 하지만 따뜻해요	il fait quel temps aujourd'hui ? il fait gris mais chaud (tiède)
-맑아요	le ciel est clair
-쌀쌀하다	faire froid/frisquet
-쉬다	se reposer
-낮 12시 / 정오	midi
-밤 12시/자정	minuit
-시작하다	commencer
-수영 하다	nager
-새벽	aube
-새벽 두 시에	à 2h du matin
-매일	tous les jours
-벽	mur
-사고	accident
-동료	collègue
-배	bateau, ventre, poire
-정의	justice
-슬프다	être triste
-기쁘다	être joyeux
-놀라다	être surpris
-우울하다	être déprimé
-울다	pleurer
-두렵다	craindre
-술집	bar
-침실	chambre (plus précis que 방)
-처음	commencement
-모두 다	tout le monde
-학원	institut privé
-박물관	musée
-권	classificateur des livres
-고양이	chat
-탁자	petite table
-젓가락	baguettes
-포크	fourchette
-모습을	apparence
-수영장	piscine
-외투, 코트	manteau
-중간	au milieu
-명함	carte de visite
-시험을 보다	passer un test
-받다	recevoir
-주다	donner
-선물은	cadeau
-받아 쓰기	dictée
-번역	traduction
-작문	rédaction
-어휘	vocabulaire
-저녁 식사	repas du soir
-간식	goûter (repas)
-밤참	en-cas (soir)
-방법	manière, façon
-요리법	recette de cuisine
-서로 인사 하고 있어요	nous sommes en train de nous saluer
- 악수 하다	se serrer la main
-다르다	être différents (conj: 달라요)
-모르다	ne pas savoir (conj : 몰라요)
-주말	weekend
-주중	en semaine
-주부	femme au foyer
-쌍둥이	jumeau
-외동딸	fille unique
-외아들	fils unique
-아르바이트를 하다	travailler à temps partiel
-칠판	tableau
-달력	calendrier
-스탠드	lampe
-벽	mur
-벽장	placard
-쓰레기통	poubelle (boîte à déchets 쓰레)
-필통	trousse
-옷걸이	porte-manteau
-서랍	tiroirs
-화장실	toilettes
-난방기	radiateur
-정리하다	ranger
-장난감	jouets
-알람시계	réveil
-손목시계	montre bracelet
-벽시계	horloge sur le mur
-오랜만 이에요	ça fait longtemps ! (formule de salutation)
-행복	bonheur
-어서 오세요!	bienvenue (formule figée)
-드시다	manger (poli)
-맛있게 드십시어	mangez ! (impératif)
-숫자	chiffres
-일억	100 Millions
-십억	1 G (1000 millions)
-일조	100G (100 000 millions)
-새해복 많이 받으세요	bonne année (recevez beaucoup de chance pour la nouvelle année)
-한국어를 사용하다	사용하다 utiliser. utiliser la langue coréenne
-양력	calendrier solaire
-음력	calendrier lunaire
-설날	fête du nouvel an
-음료수	boisson
-고추	piment
-피망	poivron
-개	classificateur général
-명	classificateur des personnes 
-마리	classificateur des animaux
-생선	poisson (생선 1마리 주세요)
-권	classificateur des livres
-물고기	poisson
-생선 가게	poissonnerie
-소설	roman
-만화책	manga
-깎다	baisser (prix), tailler
-겸손	modestie
-가격	prix
-가격이 얼마예요?	quel est le prix ?
-셔츠	chemise
-짜리	valeur : 오천원짜리 지폐 (nom valeur : 가치)
-비행기	avion
-손님	client, invité
-점원	vendeur (dans un magasin)
-대통령	président
-바구니	panier
-가지다	avoir, posséder
-영하1 도	-1°C
-자주	souvent
-들다	tenir
-죄송합니다	présenter ses excuses
-동물	animal
-드리다	donner (honorifique)
-R-ㄹ까요	demander l'avis (ex. 뭐 드릴까요?)
-아저씨	homme (syn 남자, 남성)
-아주마니	femme (syn 여자, 여성)
-아가씨	demoiselle
-정답	bonne réponse
-되다	devenir
-아직	encore (devant verbe)
-비가 오다	pleuvoir
-불다	souffler
-바람	vent
-묻다	demander
-갇다	marcher
-싣다	charger (qn) / entreposer, mettre
-대	classificateur des objets électriques
-그리고 / R-고	et
-그러나 / R-(으)나	mais
-그렇지만, 그렇지만 / R-지만	oui mais (attenué)
-그래서 / R-니까	donc/plus
-그러니까	donc/plus (plus justifié)
-그래도 / R-아/어 도 / 그럼에도 불구하고	malgré cela
-그러면 / R-(으)면	dans ce cas / condition
-그러면(서) / R-(으)면(서)	en même temps / simultanéité
-그런데 / R-는데 (verbe) / R-(으)ㄴ데 (adj)	en fait, par ailleurs, donc...
-오른쪽	à droite
-왼쪽	à gauche
-똑바로	tout droit
-찾다	chercher
-건강 하세요	soyez en bonne santé !
-행복 하세요	soyez heureux
-돈 많이 버세요	gagnez beaucoup d'argent (벌다 gagner)
-바라다	espérer
-평화	paix
-결심	résolution
-성공	réussite
-불	feu
-부자	riche
-웃다	sourire
-드시다	manger (hon.)
-계시다	avoir (hon.)
-정치학	politique
-사회학	sociologie
-선물	cadeau
-회의	réunion (travail)
-일과	ce que vous avez fait
-하루	un jour
-주말	week-end
-mois	달
-année	해 / 년
-그재	avant hier
-après demain	모레
-고르다	choisir
-모르다	ne pas savoir
-혼자	tout seul
-홍차	thé noir
-대사	ambassadeur
-대사관	ambassade
-편의점	magasin ouvert 24h/24
-술집	bar
-놀다	s'amuser
-할동	activité
-산책하다	se promener
-낚시하다	pêcher
-유학을 가다	étudier à l'étranger
-이사 가다	déménager
-6년 전부터	depuis 6 ans
-지난해 / 적년	l'an dernier
-올해 / 이번년	cette année
-덜 매운 ...	moins épicé (contraire 더 매운)
-여행	voyage
-걸리다	prendre du temps
-까지	jusque
-부터	à partir de
-2월초	au début de février (milieu 중순, fin 말)
-시험지	feuille d'examen
-켤레	classificateur des paires
-양말	chaussettes
-신발	chaussures
-잔치	fête
-한잔하다	prendre un verre
-즐기다	prendre plaisir à (adverbe 즐겨)
-식사를 하다	prendre un repas
-산책 하다	se promener
-지하철	métro
-자전거	vélo
-거러서	en marchant (걷다 marcher)
-뛰어서	en courant
-날아서	en volant
-맞다 / 틀리다	être vrai / faux
-화폐	monnaie
-R-(으)ㄴ 적이있다 (없다)	expérience, avoir fait R par le passé
-R-(으)ㄹ 까요	demander l'avis de quelqu'un sur R. ~ qu'en penses-tu, à ton avis
-지폐	billet
-동전	pièce
-R-(으)ㄹ 때	au moment où, lorsque
-R-는 N	proposition relative (R) au présent
-N-에 대해	à propos de N
-R-아/어 보다	essayer de faire quelque chose
-알아보다	essayer de savoir, se renseigner
-어치	expression de la quantité - 오만원 어치 사과를 주세요
-현금	argent liquide (espèces)
-신용 카드	carte de crédit
-Na-뿐만 아니라... Nb-도	non seulement Na, mais aussi Nb (Na et Nb implicitement COD)
-R-아/어서	exprime le gérondif (en + participe présent)
-Na-(이)나 Nb	a ou b (choix)
-Na-(이)나 Nb 동	a, b, etc.
-R-(으)ㄹ 수있다	pouvoir faire. expression auxiliaire pouvoir infinitive
-며칠동안	pendant combien de jours (temps)
-당구장	billard
-볼링장	bowling
-길다	être long (adjectif 긴)
-짧다	être court (adj 짧은)
-출근하다	aller au travail
-옷걸이	porte-manteau, cintre
-자판기	machine à café
-과자	snack
-어떤 장르	quel genre
-일주일	une semaine
-한명씩	chaque personne
-감자칩	chips
-겨산하다 / 돈을 내다	régler, payer
-낫다	guérir
-봄	printemps
-가을	automne
-여름	été
-겨울	hiver
-관광지	lieux touristiques
-관광하다	faire du tourisme
-꽃	fleur
-꼬치	brochette
-왜냐 하면	parce que
-R-아/어 지다	indique un changement d'état. ex : 날씨가 좋아졌어요
-실력	capacité, compétence (한국어 실력)
-N-덕분에	grâce à
-N-때문에	à cause de
-벚꽃	fleurs de cerisier
-꽃이 피다	fleurir, pousser
-즐겁다	être joyeux
-괴롭게	ne pas être joyeux
-물놀이	jeux dans l'eau
-단풍	feuilles colorées (automne)
-단풍	érable
-은행 나무	ginkgo
-쌓다	s'empiler (neige); être empilé 쌓이다
-바캉스 /휴가	vacances
-계절	saison
-제일	le plus
-스키를 타다	faire du ski
-눈사람	bonhomme de neige
-시금치	épinards
-싸우다	se battre, disputer
-것	chose
-덥다	faire chaud
-춥다	faire froid
-밉다	être détestable (personne)
-따뜻하다	faire doux
-시원하다	faire frais
-해가 나요	il y a du soleil (해 soleil)
-에어컨	climatisation
-얼음	glaçons
-부채	éventail
-선풍기	ventilateur
-성격	caractère
-R-지 않다	négation
-민주화 운동	mouvement démocratique
-탄생하다, 태어나다	naître
-멀다	être loin
-가깝다	être proche
-말을 놓다	se tutoyer
-동갑	même âge
-파리 여행이 첫 번 째예요?	c'est la combientième fois que tu viens à Paris ?
-무용	danse
-미술	art plastique
-전통 예술	art traditionnel
-구름	nuage
-하늘	ciel
-하늘이 흐려요	le ciel est gris
-가볍다 / 무겁다	léger / lourd
-모자를 썼어요	porter un chapeau
-방지 / 자갑을 겼어요	porter un anneau, des gants (끼다)
-목도리를 하다	porter une écharpe
-하얗다	être blanc
-요즘	ces derniers temps, en ce moment
-추원서 몸을 떨고있어요	à cause du froid, mon corps tremble
-시원한옷	vêtements frais
-따뜻한 옷	vêtements chauds
-우산은 쓰고있어요	je porte un parapluie
-선풍기 사용하다	utiliser un ventilateur
-땀	sueur
-흘리다	couler
-부채	éventail
-부채질을 해요	j'utilise un éventail
-답장	réponse
-삭제	supprimer
-보내다	envoyer
-받다	recevoir
-골뱅이	@ / bulot
-달팽이	escargot
-제목	sujet
-두꺼운옷	vêtements épais
-두껍다 / 얇다	épais / mince
-메일	mail
-포근하다	être agréable, chaud (vêtement)
-그렇죠	n'est-ce pas ?
-미용실	coiffeur
-머리카라	cheveux
-긴 머리를 가진 여자	fille aux cheveux longs
-잦다, 가지다	avoir
-코	nez
-눈	oeil
-입	bouche
-입술	lèvres
-귀	oreilles
-목	cou
-팔	bras
-손	main
-손목	poignet
-발	pied
-다리	jambes
-손가락 / 발가락	doigts de mains / de pieds
-신발 치수	pointure
-재외 / 빼고 (fam)	sauf
-주말을 제외 하고	sauf le weekend
-낮다 / 깊다	peu profond / profond
-동요	comptine
-높다	être haut
-비행기	avion
-R-나서	indique la suite
-미리	en avance
-예약하다	reserver
-태안난날	jour de naissance
-지하철 번호	numéro de métro
-날짜	date
-시각	début
-불금	vendredi (expression)
-몇시에 집에 가요?	à quelle heure rentres-tu à la maison ?
-어제 / 어저게	hier
-꽃이 절	saison des fleurs (~mai)
-돌아오다	revenir (돌 : retourner)
-N-마다	chaque N
-얼굴	visage
-점심때	au moment du déjeuner
-6시 10분 전이에요	il est 6 heures moins 10
-폭력	violence
-푹력 적이다	être violent
-강등	conflit
-눈치	6e sens
-빠르다	être rapide
-퇴근 하다	quitter le travail
-양파	oignon
-운동장	gymnase
-계획	projet
-뭐 타고와요?	par quel moyen de transport viens-tu?
-x 을/를 위해서	pour x
-잘 생기다	"être beau, ""bien paraitre"" (homme). contraire 못 ~. utilisé au passé."
-어떠하다	être comment
-선약이 있다	avoir un rendez-vous
-내용 (약속의내용)	contenu (d'un rendez-vous)
-버섯	champignon
-당근	carottes
-마늘	ail
-인삼	ginseng
-달걀	oeuf
-공나믈	soja
-양배추	choux
-감자	pomme de terre
-할인	remise (vente)
-극장	salle de cinéma
-백화점	grand magasin
-휴일	jour férié
-푹자다	bien dormir
-10시간 동안	pendant 10h
-한번	une fois (cardinal)
-일번	1e fois
-전혀	jamais
-야채 / 채수	légumes
-R-아/야 하다	falloir faire qqch
-제안 하다	proposer qqch à qn
-약속 하다	prendre rendez-vous
-약속 시간/정소를 정 하다	fixer l'heure/le lieu d'un rendez-vous
-마지막 학기	dernier trimestre
-시간이 돼요	être disponible
-R-(으)ㄹ 래요 ?/.	demander/affirmer l'opinion, la volonté, l'intention
-R-(으)ㄹ 게요.	déclarer l'intention
-R-(으)십시다	impératif formel poli
-잘 모르겠어요	je ne sais pas bien
-기차역 / 지하철역	gare de train/métro
+질문	question	
+줄장	voyage d'affaire	
+특별하다	être special	
+강	fleuve	
+포도주	vin	
+숲	forêt	
+치마	jupe	
+딸	fille	
+차다	frapper	
+많다	etre nombreux	
+복습	révision	
+소개하다	se présenter	
+어휘	vocabulaire	
+스물	20	
+서른	30	
+마흔	40	
+쉰	50	
+그림	dessin	
+그리다 	dessiner	
+공화국	république	
+대화	conversation	
+연구원	chercheur	
+사업가	homme d'affaires	
+간호사	infirmier	
+소방관	pompier	
+건축가	architecte	
+예술가	artiste	
+작가	écrivain	
+은행원	banquier	
+변호사	avocat	
+약사	pharmacien	
+우체부	facteur	
+엔지니어	ingénieur	
+기자	journaliste	
+질문한개 있어요	j'ai une question	
+북	nord	
+남	sud	
+동	est	
+서	ouest	
+가족	famille	
+부모님	parents	
+조부모님	grands parents	
+손자	 petit fils	
+손녀	petite fille	
+이사 하다	déménager	
+실례지만, 무슨 일을 하세요?	excusez moi, quel travail exercez vous ?	
+성함이 어떻게 되세요?	quel est votre nom ? 성함=nom, honorifique. 되세요=devenir	
+저는 운동은 좋아해요	j'aime faire du sport	
+발사!	lancement!	
+서로	mutuellement, l'un avec l'autre	
+수업 후에, 저는 집에 가요	après l'école, je vais à la maison	
+어디에서 왔어요	d'où viens-tu ?	
+우리는/저희는 세종학당어서 한국어를 공부해요	nous étudions le coréen à Sejong hakdang.	
+나는 한국으로 가요/떠나요	je pars pour la Corée	
+따나다	partir, quitter un endroit	
+동작	action	
+잠을 자다	dormir	
+꿈을 꾸다	rêver un rêve	
+춤을 추다	danser une danse	
+신(발)을 신다	chausser des chaussures	
+낮잠을 자다	faire une sieste	
+늦게	tard	
+늦잠을 자다	faire la grasse matinée	
+이야기	histoire	
+시장	marché	
+장소	lieu	
+회사	entreprise	
+사장	directeur, président	
+도시	ville	
+사장님	patron	
+쇼핑을 하다	faire du shopping	
+사다	acheter	
+팔다	vendre	
+월요일	lundi	
+화요일	mardi	
+수요일	mercredi	
+목요일	jeudi	
+금요일	vendredi	
+토요일	samedi	
+일요일	dimanche	
+쉽다	être facile	
+어렵다	être difficile	
+서양	occident	
+교실	salle de classe	
+배우다	apprendre	
+가르치다	enseigner	
+사무실	bureau (lieu)	
+달리다 / 달리기를 하다	courir/faire une course (sport)	
+읽다	lire	
+저는 검퓨터를 (하는것을/하기를) 좋아해요	j'aime utiliser l'ordinateur	
+요리를 하다	cuisiner	
+미식가	gourmet	
+대식가	gourmand / qui mange beaucoup	
+여러분	vous tous	
+배고프다	avoir faim (lit. le ventre vide)	
+부르다 / 배(가)불러요	être rassasié / ne plus avoir faim	
+질문	question	
+전화	téléphone	
+맞는 답에	la bonne réponse	
+친잘하다	être gentil (adj)	
+착하다	avoir bon coeur	
+장소	lieu	
+회사	entreprise	
+연세	âge, honorifique (나이 sinon)	
+연세가 어떻게 되세요?	quel âge avez-vous ?	
+실례지만 이름이 어떻게 되세요?	excusez-moi, quel est votre nom ?	
+오늘은 몇칠 이에요?	quel jour (de l'année) sommes nous aujourd'hui ?	
+위치	position, localisation	
+책상	bureau	
+책장	armoire, bibliothèque	
+밥상	table à manger (familier) = 식탁	
+책방, 서점	librairie	
+도서관	bibliothèque	
+공책	cahier	
+볼팬	stylo bille	
+연필	crayon papier	
+앞	devant	
+뒤	derrière	
+옆	à côté	
+안	à l'intérieur	
+밖	à l'extérieur	
+위	sur	
+아래/밑	en dessous	
+가운데	au milieu	
+근처	aux alentours de (littéraire)	
+사이	entre	
+돈	argent	
+정말	beaucoup, vraiment	
+종말	fin du monde	
+맛있게 (드세요/먹으세요)	bon appetit	
+잘 먹겠습니다	je vais bien manger (réponse à bon appétit)	
+저는 x 하고 y 사이에 있어요	je suis entre x et y	
+침대	lit	
+오늘은 날씨가 어때요? 흐려요 하지만 따뜻해요	il fait quel temps aujourd'hui ? il fait gris mais chaud (tiède)	
+맑아요	le ciel est clair	
+쌀쌀하다	faire froid/frisquet	
+쉬다	se reposer	
+낮 12시 / 정오	midi	
+밤 12시/자정	minuit	
+시작하다	commencer	
+수영 하다	nager	
+새벽	aube	
+새벽 두 시에	à 2h du matin	
+매일	tous les jours	
+벽	mur	
+사고	accident	
+동료	collègue	
+배	bateau, ventre, poire	
+정의	justice	
+슬프다	être triste	
+기쁘다	être joyeux	
+놀라다	être surpris	
+우울하다	être déprimé	
+울다	pleurer	
+두렵다	craindre	
+술집	bar	
+침실	chambre (plus précis que 방)	
+처음	commencement	
+모두 다	tout le monde	
+학원	institut privé	
+박물관	musée	
+권	classificateur des livres	
+고양이	chat	
+탁자	petite table	
+젓가락	baguettes	
+포크	fourchette	
+모습을	apparence	
+수영장	piscine	
+외투, 코트	manteau	
+중간	au milieu	
+명함	carte de visite	
+시험을 보다	passer un test	
+받다	recevoir	
+주다	donner	
+선물은	cadeau	
+받아 쓰기	dictée	
+번역	traduction	
+작문	rédaction	
+어휘	vocabulaire	
+저녁 식사	repas du soir	
+간식	goûter (repas)	
+밤참	en-cas (soir)	
+방법	manière, façon	
+요리법	recette de cuisine	
+서로 인사 하고 있어요	nous sommes en train de nous saluer	
+ 악수 하다	se serrer la main	
+다르다	être différents (conj: 달라요)	
+모르다	ne pas savoir (conj : 몰라요)	
+주말	weekend	
+주중	en semaine	
+주부	femme au foyer	
+쌍둥이	jumeau	
+외동딸	fille unique	
+외아들	fils unique	
+아르바이트를 하다	travailler à temps partiel	
+칠판	tableau	
+달력	calendrier	
+스탠드	lampe	
+벽	mur	
+벽장	placard	
+쓰레기통	poubelle (boîte à déchets 쓰레)	
+필통	trousse	
+옷걸이	porte-manteau	
+서랍	tiroirs	
+화장실	toilettes	
+난방기	radiateur	
+정리하다	ranger	
+장난감	jouets	
+알람시계	réveil	
+손목시계	montre bracelet	
+벽시계	horloge sur le mur	
+오랜만 이에요	ça fait longtemps ! (formule de salutation)	
+행복	bonheur	
+어서 오세요!	bienvenue (formule figée)	
+드시다	manger (poli)	
+맛있게 드십시어	mangez ! (impératif)	
+숫자	chiffres	
+일억	100 Millions	
+십억	1 G (1000 millions)	
+일조	100G (100 000 millions)	
+새해복 많이 받으세요	bonne année (recevez beaucoup de chance pour la nouvelle année)	
+한국어를 사용하다	사용하다 utiliser. utiliser la langue coréenne	
+양력	calendrier solaire	
+음력	calendrier lunaire	
+설날	fête du nouvel an	
+음료수	boisson	
+고추	piment	
+피망	poivron	
+개	classificateur général	
+명	classificateur des personnes 	
+마리	classificateur des animaux	
+생선	poisson (생선 1마리 주세요)	
+권	classificateur des livres	
+물고기	poisson	
+생선 가게	poissonnerie	
+소설	roman	
+만화책	manga	
+깎다	baisser (prix), tailler	
+겸손	modestie	
+가격	prix	
+가격이 얼마예요?	quel est le prix ?	
+셔츠	chemise	
+짜리	valeur : 오천원짜리 지폐 (nom valeur : 가치)	
+비행기	avion	
+손님	client, invité	
+점원	vendeur (dans un magasin)	
+대통령	président	
+바구니	panier	
+가지다	avoir, posséder	
+영하1 도	-1°C	
+자주	souvent	
+들다	tenir	
+죄송합니다	présenter ses excuses	
+동물	animal	
+드리다	donner (honorifique)	
+R-ㄹ까요	demander l'avis (ex. 뭐 드릴까요?)	
+아저씨	homme (syn 남자, 남성)	
+아주마니	femme (syn 여자, 여성)	
+아가씨	demoiselle	
+정답	bonne réponse	
+되다	devenir	
+아직	encore (devant verbe)	
+비가 오다	pleuvoir	
+불다	souffler	
+바람	vent	
+묻다	demander	
+갇다	marcher	
+싣다	charger (qn) / entreposer, mettre	
+대	classificateur des objets électriques	
+그리고 / R-고	et	
+그러나 / R-(으)나	mais	
+그렇지만, 그렇지만 / R-지만	oui mais (attenué)	
+그래서 / R-니까	donc/plus	
+그러니까	donc/plus (plus justifié)	
+그래도 / R-아/어 도 / 그럼에도 불구하고	malgré cela	
+그러면 / R-(으)면	dans ce cas / condition	
+그러면(서) / R-(으)면(서)	en même temps / simultanéité	
+그런데 / R-는데 (verbe) / R-(으)ㄴ데 (adj)	en fait, par ailleurs, donc...	
+오른쪽	à droite	
+왼쪽	à gauche	
+똑바로	tout droit	
+찾다	chercher	
+건강 하세요	soyez en bonne santé !	
+행복 하세요	soyez heureux	
+돈 많이 버세요	gagnez beaucoup d'argent (벌다 gagner)	
+바라다	espérer	
+평화	paix	
+결심	résolution	
+성공	réussite	
+불	feu	
+부자	riche	
+웃다	sourire	
+드시다	manger (hon.)	
+계시다	avoir (hon.)	
+정치학	politique	
+사회학	sociologie	
+선물	cadeau	
+회의	réunion (travail)	
+일과	ce que vous avez fait	
+하루	un jour	
+주말	week-end	
+mois	달	
+année	해 / 년	
+그재	avant hier	
+après demain	모레	
+고르다	choisir	
+모르다	ne pas savoir	
+혼자	tout seul	
+홍차	thé noir	
+대사	ambassadeur	
+대사관	ambassade	
+편의점	magasin ouvert 24h/24	
+술집	bar	
+놀다	s'amuser	
+할동	activité	
+산책하다	se promener	
+낚시하다	pêcher	
+유학을 가다	étudier à l'étranger	
+이사 가다	déménager	
+6년 전부터	depuis 6 ans	
+지난해 / 작년	l'an dernier	
+올해 / 이번년	cette année	
+덜 매운 ...	moins épicé (contraire 더 매운)	
+여행	voyage	
+(시간이)걸리다	prendre du temps	
+까지	jusque	
+부터	à partir de	
+2월초	au début de février (milieu 중순, fin 말)	
+시험지	feuille d'examen	
+켤레	classificateur des paires	
+양말	chaussettes	
+신발	chaussures	
+잔치	fête	
+한잔하다	prendre un verre	
+즐기다	prendre plaisir à (adverbe 즐겨)	
+식사를 하다	prendre un repas	
+산책 하다	se promener	
+지하철	métro	
+자전거	vélo	
+걸어서	en marchant (걷다 marcher)	
+뛰어서	en courant	
+날아서	en volant	
+맞다 / 틀리다	être vrai / faux	
+화폐	monnaie	
+R-(으)ㄴ 적이있다 (없다)	expérience, avoir fait R par le passé	
+R-(으)ㄹ 까요	demander l'avis de quelqu'un sur R. ~ qu'en penses-tu, à ton avis	
+지폐	billet	
+동전	pièce	
+R-(으)ㄹ 때	au moment où, lorsque	
+R-는 N	proposition relative (R) au présent	
+N-에 대해	à propos de N	
+R-아/어 보다	essayer de faire quelque chose	
+알아보다	essayer de savoir, se renseigner	
+어치	expression de la quantité - 오만원 어치 사과를 주세요	
+현금	argent liquide (espèces)	
+신용 카드	carte de crédit	
+Na-뿐만 아니라... Nb-도	non seulement Na, mais aussi Nb (Na et Nb implicitement COD)	
+R-아/어서	exprime le gérondif (en + participe présent)	
+Na-(이)나 Nb	a ou b (choix)	
+Na-(이)나 Nb 동	a, b, etc.	
+R-(으)ㄹ 수있다	pouvoir faire. expression auxiliaire pouvoir infinitive	
+며칠동안	pendant combien de jours (temps)	
+당구장	billard	
+볼링장	bowling	
+길다	être long (adjectif 긴)	
+짧다	être court (adj 짧은)	
+출근하다	aller au travail	
+옷걸이	porte-manteau, cintre	
+자판기	machine à café	
+과자	snack	
+어떤 장르	quel genre	
+일주일	une semaine	
+한명씩	chaque personne	
+감자칩	chips	
+계산하다 / 돈을 내다	régler, payer	
+낫다	guérir	
+봄	printemps	
+가을	automne	
+여름	été	
+겨울	hiver	
+관광지	lieux touristiques	
+관광하다	faire du tourisme	
+꽃	fleur	
+꼬치	brochette	
+왜냐 하면	parce que	
+R-아/어 지다	indique un changement d'état. ex : 날씨가 좋아졌어요	
+실력	capacité, compétence (한국어 실력)	
+N-덕분에	grâce à	
+N-때문에	à cause de	
+벚꽃	fleurs de cerisier	
+꽃이 피다	fleurir, pousser	
+즐겁다	être joyeux	
+괴롭게	ne pas être joyeux	
+물놀이	jeux dans l'eau	
+단풍	feuilles colorées (automne)	
+단풍	érable	
+은행 나무	ginkgo	
+쌓다	s'empiler (neige); être empilé 쌓이다	
+바캉스 /휴가	vacances	
+계절	saison	
+제일	le plus	
+스키를 타다	faire du ski	
+눈사람	bonhomme de neige	
+시금치	épinards	
+싸우다	se battre, disputer	
+것	chose	
+덥다	faire chaud	
+춥다	faire froid	
+밉다	être détestable (personne)	
+따뜻하다	faire doux	
+시원하다	faire frais	
+해가 나요	il y a du soleil (해 soleil)	
+에어컨	climatisation	
+얼음	glaçons	
+부채	éventail	
+선풍기	ventilateur	
+성격	caractère	
+R-지 않다	négation	
+민주화 운동	mouvement démocratique	
+탄생하다, 태어나다	naître	
+멀다	être loin	
+가깝다	être proche	
+말을 놓다	se tutoyer	
+동갑	même âge	
+파리 여행이 몇 번 째예요?	c'est la combientième fois que tu viens à Paris ?	
+무용	danse	
+미술	art plastique	
+전통 예술	art traditionnel	
+구름	nuage	
+하늘	ciel	
+하늘이 흐려요	le ciel est gris	
+가볍다 / 무겁다	léger / lourd	
+모자를 썼어요	porter un chapeau	
+방지 / 자갑을 꼈어요	porter un anneau, des gants (끼다)	
+목도리를 하다	porter une écharpe	
+하얗다	être blanc	
+요즘	ces derniers temps, en ce moment	
+추워서 몸을 떨고있어요	à cause du froid, mon corps tremble	
+시원한옷	vêtements frais	
+따뜻한 옷	vêtements chauds	
+우산을 쓰고있어요	je porte un parapluie	
+선풍기를 사용하다	utiliser un ventilateur	
+땀	sueur	
+흘리다	couler	
+부채	éventail	
+부채질을 해요	j'utilise un éventail	
+답장	réponse	
+삭제	supprimer	
+보내다	envoyer	
+받다	recevoir	
+골뱅이	@ / bulot	
+달팽이	escargot	
+제목	sujet	
+두꺼운옷	vêtements épais	
+두껍다 / 얇다	épais / mince	
+메일	mail	
+포근하다	être agréable, chaud (vêtement)	
+그렇죠	n'est-ce pas ?	
+미용실	coiffeur	
+머리카라	cheveux	
+긴 머리를 가진 여자	fille aux cheveux longs	
+잦다, 가지다	avoir	
+코	nez	
+눈	oeil	
+입	bouche	
+입술	lèvres	
+귀	oreilles	
+목	cou	
+팔	bras	
+손	main	
+손목	poignet	
+발	pied	
+다리	jambes	
+손가락 / 발가락	doigts de mains / de pieds	
+신발 치수	pointure	
+재외 / 빼고 (fam)	sauf	
+주말을 제외 하고	sauf le weekend	
+낮다 / 깊다	peu profond / profond	
+동요	comptine	
+높다	être haut	
+비행기	avion	
+R-나서	indique la suite	
+미리	en avance	
+예약하다	reserver	
+태어난날	jour de naissance	
+지하철 번호	numéro de métro	
+날짜	date	
+시각	début	
+불금	vendredi (expression)	
+몇시에 집에 가요?	à quelle heure rentres-tu à la maison ?	
+어제 / 어저게	hier	
+꽃피는 계절	saison des fleurs (~mai)	
+돌아오다	revenir (돌 : retourner)	
+N-마다	chaque N	
+얼굴	visage	
+점심때	au moment du déjeuner	
+6시 10분 전이에요	il est 6 heures moins 10	
+폭력	violence	
+폭력 적이다	être violent	
+강등	conflit	
+눈치	6e sens	
+빠르다	être rapide	
+퇴근 하다	quitter le travail	
+양파	oignon	
+운동장	gymnase	
+계획	projet	
+뭐 타고와요?	par quel moyen de transport viens-tu?	
+x 을/를 위해서	pour x	
+잘 생기다	"être beau, ""bien paraitre"" (homme). contraire 못 ~. utilisé au passé."	
+어떠하다	être comment	
+선약이 있다	avoir un rendez-vous	
+내용 (약속의내용)	contenu (d'un rendez-vous)	
+버섯	champignon	
+당근	carottes	
+마늘	ail	
+인삼	ginseng	
+달걀	oeuf	
+콩나믈	soja	
+양배추	choux	
+감자	pomme de terre	
+할인	remise (vente)	
+극장	salle de cinéma	
+백화점	grand magasin	
+휴일	jour férié	
+푹자다	bien dormir	
+10시간 동안	pendant 10h	
+한번	une fois (cardinal)	
+일번	1e fois	
+전혀	jamais	
+야채 / 채소	légumes	
+R-아/야 하다	falloir faire qqch	
+제안 하다	proposer qqch à qn	
+약속 하다	prendre rendez-vous	
+약속 시간/정소를 정 하다	fixer l'heure/le lieu d'un rendez-vous	
+마지막 학기	dernier trimestre	
+시간이 되요	être disponible	
+R-(으)ㄹ 래요 ?/.	demander/affirmer l'opinion, la volonté, l'intention	
+R-(으)ㄹ 게요.	déclarer l'intention	
+R-(으)십시다	impératif formel poli	
+잘 모르겠어요	je ne sais pas bien	
+기차역 / 지하철역	gare de train/métro	
