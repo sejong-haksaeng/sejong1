@@ -142,9 +142,9 @@
 새벽	aube
 새벽 두 시에	à 2h du matin
 매일	tous les jours
-벽을	mur
+벽	mur
 사고	accident
-동료	collège
+동료	collègue
 배	bateau, ventre, poire
 정의	justice
 슬프다	être triste
@@ -263,7 +263,7 @@ R-ㄹ까요	demander l'avis (ex. 뭐 드릴까요?)
 비가 오다	pleuvoir
 불다	souffler
 바람	vent
-demander	묻다
+묻다	demander
 갇다	marcher
 싣다	charger (qn) / entreposer, mettre
 대	classificateur des objets électriques
@@ -317,3 +317,184 @@ après demain	모레
 낚시하다	pêcher
 유학을 가다	étudier à l'étranger
 이사 가다	déménager
+6년 전부터	depuis 6 ans
+지난해 / 적년	l'an dernier
+올해 / 이번년	cette année
+덜 매운 ...	moins épicé (contraire 더 매운)
+여행	voyage
+걸리다	prendre du temps
+까지	jusque
+부터	à partir de
+2월초	au début de février (milieu 중순, fin 말)
+시험지	feuille d'examen
+켤레	classificateur des paires
+양말	chaussettes
+신발	chaussures
+잔치	fête
+한잔하다	prendre un verre
+즐기다	prendre plaisir à (adverbe 즐겨)
+식사를 하다	prendre un repas
+산책 하다	se promener
+지하철	métro
+자전거	vélo
+거러서	en marchant (걷다 marcher)
+뛰어서	en courant
+날아서	en volant
+맞다 / 틀리다	être vrai / faux
+화폐	monnaie
+R-(으)ㄴ 적이있다 (없다)	expérience, avoir fait R par le passé
+R-(으)ㄹ 까요	demander l'avis de quelqu'un sur R. ~ qu'en penses-tu, à ton avis
+지폐	billet
+동전	pièce
+R-(으)ㄹ 때	au moment où, lorsque
+R-는 N	proposition relative (R) au présent
+N-에 대해	à propos de N
+R-아/어 보다	essayer de faire quelque chose
+알아보다	essayer de savoir, se renseigner
+어치	expression de la quantité - 오만원 어치 사과를 주세요
+현금	argent liquide (espèces)
+신용 카드	carte de crédit
+Na-뿐만 아니라... Nb-도	non seulement Na, mais aussi Nb (Na et Nb implicitement COD)
+R-아/어서	exprime le gérondif (en + participe présent)
+Na-(이)나 Nb	a ou b (choix)
+Na-(이)나 Nb 동	a, b, etc.
+R-(으)ㄹ 수있다	pouvoir faire. expression auxiliaire pouvoir infinitive
+며칠동안	pendant combien de jours (temps)
+당구장	billard
+볼링장	bowling
+길다	être long (adjectif 긴)
+짧다	être court (adj 짧은)
+출근하다	aller au travail
+옷걸이	porte-manteau, cintre
+자판기	machine à café
+과자	snack
+어떤 장르	quel genre
+일주일	une semaine
+한명씩	chaque personne
+감자칩	chips
+겨산하다 / 돈을 내다	régler, payer
+낫다	guérir
+봄	printemps
+가을	automne
+여름	été
+겨울	hiver
+관광지	lieux touristiques
+관광하다	faire du tourisme
+꽃	fleur
+꼬치	brochette
+왜냐 하면	parce que
+R-아/어 지다	indique un changement d'état. ex : 날씨가 좋아졌어요
+실력	capacité, compétence (한국어 실력)
+N-덕분에	grâce à
+N-때문에	à cause de
+벚꽃	fleurs de cerisier
+꽃이 피다	fleurir, pousser
+즐겁다	être joyeux
+괴롭게	ne pas être joyeux
+물놀이	jeux dans l'eau
+단풍	feuilles colorées (automne)
+단풍	érable
+은행 나무	ginkgo
+쌓다	s'empiler (neige); être empilé 쌓이다
+바캉스 /휴가	vacances
+계절	saison
+제일	le plus
+스키를 타다	faire du ski
+눈사람	bonhomme de neige
+시금치	épinards
+싸우다	se battre, disputer
+것	chose
+덥다	faire chaud
+춥다	faire froid
+밉다	être détestable (personne)
+따뜻하다	faire doux
+시원하다	faire froid
+해가 나요	il y a du soleil (해 soleil)
+에어컨	climatisation
+얼음	glaçons
+부채	éventail
+선풍기	ventilateur
+성격	caractère
+R-지 않다	négation
+민주화 운동	mouvement démocratique
+탄생하다, 태어나다	naître
+멀다	être loin
+가깝다	être proche
+말을 놓다	se tutoyer
+동갑	même âge
+파리 여행이 첫 번 째예요?	c'est la combientième fois que tu viens à Paris ?
+무용	danse
+미술	art plastique
+전통 예술	art traditionnel
+구름	nuage
+하늘	ciel
+하늘이 흐려요	le ciel est gris
+가볍다 / 무겁다	léger / lourd
+모자를 썼어요	porter un chapeau
+방지 / 자갑을 겼어요	porter un anneau, des gants (끼다)
+목리를 하다	porter une écharpe
+하얗다	être blanc
+요즘	ces derniers temps, en ce moment
+추원서 몸을 떨고있어요	à cause du froid, mon corps tremble
+시원한옷	vêtements frais
+따뜻한 옷	vêtements chauds
+우산은 쓰고있어요	je porte un parapluie
+선풍기 사용하다	utiliser un ventilateur
+땀	sueur
+흘리다	couler
+부채	éventail
+부채질을 해요	j'utilise un éventail
+답장	réponse
+삭제	supprimer
+보내다	envoyer
+받다	recevoir
+골뱅이	@ / bulot
+달팽이	escargot
+제목	sujet
+두꺼운옷	vêtements épais
+두껍다 / 얇다	épais / mince
+메일	mail
+포근하다	être agréable, chaud (vêtement)
+그렇죠	n'est-ce pas ?
+미용실	coiffeur
+머리카라	cheveux
+긴 머리를 가진 여자	fille aux cheveux longs
+잦다, 가지다	avoir
+코	nez
+눈	oeil
+입	bouche
+입술	lèvres
+귀	oreilles
+목	cou
+팔	bras
+손	main
+손목	poignet
+발	pied
+다리	jambes
+손가락 / 발가락	doigts de mains / de pieds
+신발 치수	pointure
+재외 / 빼고 (fam)	sauf
+주말을 제외 하고	sauf le weekend
+낮다 / 깊다	peu profond / profond
+동요	comptine
+높다	être haut
+비행기	avion
+R-나서	indique la suite
+미리	en avance
+예약하다	reserver
+태안난날	jour de naissance
+지하철 번호	numéro de métro
+날짜	date
+시각	début
+불금	vendredi (expression)
+몇시에 집에 가요?	à quelle heure rentres-tu à la maison ?
+어제 / 어저게	hier
+꽃이 절	saison des fleurs (~mai)
+돌아오다	revenir (돌 : retourner)
+N-마다	chaque N
+얼굴	visage
+점심때	au moment du déjeuner
+6시 10분 전이에요	il est 6 heures moins 10
+폭력	violence
+푹력 적이다	être violent
+강등	conflit
