@@ -319,7 +319,7 @@ après demain	모레
 이사 가다	déménager	
 6년 전부터	depuis 6 ans	
 지난해 / 작년	l'an dernier	
-올해 / 이번년	cette année	
+올해 / 이번년 / 금년	cette année	
 덜 매운 ...	moins épicé (contraire 더 매운)	
 여행	voyage	
 (시간이)걸리다	prendre du temps	
@@ -355,7 +355,7 @@ R-아/어 보다	essayer de faire quelque chose
 현금	argent liquide (espèces)	
 신용 카드	carte de crédit	
 Na-뿐만 아니라... Nb-도	non seulement Na, mais aussi Nb (Na et Nb implicitement COD)	
-R-아/어서	exprime le gérondif (en + participe présent)	
+R-아/어서	exprime le gérondif (en + participe présent) / cause / suite	
 Na-(이)나 Nb	a ou b (choix)	
 Na-(이)나 Nb 동	a, b, etc.	
 R-(으)ㄹ 수있다	pouvoir faire. expression auxiliaire pouvoir infinitive	
@@ -430,9 +430,9 @@ R-지 않다	négation
 하늘	ciel	
 하늘이 흐려요	le ciel est gris	
 가볍다 / 무겁다	léger / lourd	
-모자를 썼어요	porter un chapeau	
+모자를 썼어요 (쓰다)	porter un chapeau	
 방지 / 자갑을 꼈어요	porter un anneau, des gants (끼다)	
-목도리를 하다	porter une écharpe	
+목도리를 매다	porter une écharpe	
 하얗다	être blanc	
 요즘	ces derniers temps, en ce moment	
 추워서 몸을 떨고있어요	à cause du froid, mon corps tremble	
@@ -536,6 +536,128 @@ R-아/야 하다	falloir faire qqch
 시간이 되요	être disponible	
 R-(으)ㄹ 래요 ?/.	demander/affirmer l'opinion, la volonté, l'intention	
 R-(으)ㄹ 게요.	déclarer l'intention	
-R-(으)십시다	impératif formel poli	
+R-(으)십시다	impératif formel poli (proposition)	
 잘 모르겠어요	je ne sais pas bien	
 기차역 / 지하철역	gare de train/métro	
+축제	festival	
+소풍을 가다	faire un pique nique	
+썬텐 하다 / 햇볕을 쬐다 / 일광욕을 하다	prendre le soleil	
+화채	salade de fruits	
+계곡	rivière, torrent	
+단감	kaki (fruit)	
+책자	brochure	
+작년 / 지난 해	l'année dernière	
+다음해 / 내년	l'an prochain	
+사진을 찍다	prendre une photo	
+고궁	palais ancien	
+해변	plage	
+방문 하다	visiter	
+등산 하다	randonner	
+공놀이	jeux de ballon	
+문화	culture	
+감상 하다	admirer	
+구경 하다	regarder avec attention	
+이빨 / 치아	dent	
+치과의사	dentiste	
+오후 내내	tout l'après midi	
+하루종일	toute la journée	
+어린 왕자	le petit prince	
+도장을 찍다	signer avec un sceau	
+현재	présent	
+과거	passé	
+미래	futur	
+연극	pièce de théâtre	
+축구	football	
+마시고 축자!	buvons jusqu'à la mort (expression)	
+R-(으)십시다	impératif formel poli, proposition	
+R-(으)ㅂ 시다	proposition	
+공항	aéroport	
+방학	vacances scolaires	
+손가락	cuillère	
+같다	être pareil	
+곳	lieu, après une forme déterminante	
+그리고나서	ensuite	
+전자 우편	courrier électronique	
+야유회, 야유에 가다	pique nique (sortir s'amuser ensemble)	
+역사	histoire	
+관심이 있다	avoir de l'intérêt	
+경치	paysage	
+자연	nature	
+R-아/어 보다	avoir déjà fait, avoir l'expérience	
+가끔	parfois	
+어떨때는	des fois	
+준비 하다	préparer	
+출발 아다	commencer, partir	
+도착 하다	arriver, partir	
+웃기다	être drôle	
+R-지요?	n'est-ce pas ? au passé, après verbe d'action ou description	
+재미없다 = 지루하다	ennuyeux	
+주사위	dé (jeu)	
+단지다	lancer (dé)	
+만큼	autant que	
+다른	autre (personne)	
+국전	nationalité	
+음악회에 가다	aller à un concert	
+안벽 등반	escalade	
+N-이유	raison pour laquelle... (déterminant)	
+파업	grève	
+배우	acteur	
+잊어버렸어요	j'ai oublié	
+경제	économie	
+과학	sciences	
+송이	classificateur des grappes (raisin)	
+치즈	fromage	
+10유로 쯤	environ 10€	
+주제	sujet	
+생할	vie	
+말하기 대해	concours de discours	
+군대	classificateur des lieux	
+공연	spectacle	
+해변	plage	
+회	poisson cru	
+다른 것을	d'autres choses	
+미녀	beauté	
+괴롭다	être angoissé	
+찜질방	sauna	
+감독	réalisateur	
+유명 하다	être célèbre	
+무료	gratuit	
+R-(으)면 안돼요	interdiction	
+앞으로	dans le futur	
+자신 	soi-même	
+페인트를 칠하다	peindre (mur)	
+배를 조종하다	naviguer (voyager en bateau)	
+배로 한해하다	naviguer, conduire un bateau	
+대학교	université	
+대학원	école (master, doctorat)	
+졸업을 하다	être diplômé	
+열심히	ardemment	
+남미	Amérique du sud	
+R-아/어 야하다	devoir faire quelque chose	
+특이 하다	être excentrique, insolite	
+다양성	diversifié	
+감동적이다	être touchant	
+행사가있다	événement spécial	
+액자	cadre (photo)	
+벌	classificateur des vêtements	
+그루	classificateur des fleurs	
+신발을 신다	porter des chaussures	
+나비 넥타이	nœud papillon	
+운동화	baskets (chaussures)	
+파란색	bleu	
+빨간색	rouge	
+청바지	blue jeans	
+흰색	blanc	
+검은색	noir	
+초록색 / 녹색	vert	
+노란색	jaune	
+회색	gris	
+보라색	violet	
+핑크색 / 분홍색	rose	
+갈색 / 밤색	marron	
+원피스	robe	
+샌들	sandales	
+차다	porter une montre, un bracelet	
+자져가다	emporter	
+내려가다	descendre	
+올라가다	monter	
