@@ -1,5 +1,5 @@
 Ce projet contient des listes de vocabulaire étudié pendant les cours Sejong
-Hakdang, niveau 1 Paris, 2016.
+Hakdang, niveau 1 2015-2016 et niveau 2, 2016-2017.
 
 Il comporte très probablement des erreurs.
 
