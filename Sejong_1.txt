@@ -577,7 +577,7 @@ R-(으)ㅂ 시다	proposition (radical)
 역사 (歷史)	Histoire
 관심이 있다	avoir de l'intérêt
 경치	paysage
-자연	nature	marked
+자연	nature
 R-아/어 보다	avoir déjà fait, avoir l'expérience
 가끔	parfois
 어떨때는	des fois
@@ -622,7 +622,7 @@ R-(으)면 안돼요	interdiction
 자신 	soi-même
 페인트를 칠하다	peindre (mur)
 배를 조종하다	naviguer (voyager en bateau)
-배로 한해하다	naviguer, conduire un bateau	marked
+배로 한해하다	naviguer, conduire un bateau
 대학교	université
 대학원	école (master, doctorat)
 졸업을 하다	être diplômé
@@ -976,7 +976,7 @@ R-(으)ㄴ 것 같아요	sembler que
 결혼 반지	bague de mariage
 약혼 반지	bague de fiançailles
 벨트 / 혁대	ceinture
-고고학지	archéologue
+고고학자	archéologue
 우주인	astronaute
 나타낸다 / 나타내다	faire paraître / paraître
 소유	possession
@@ -1045,7 +1045,7 @@ R (으)려고 하다	expression de l'intention de faire quelque chose
 세모, 삼각형 / 세모나다	triangle / être triangulaire
 무료, 공짜 / 유료	gratuit / payant
 장식	décoration
-수도	capitale
+수도	capitale, eau courante
 후원, 비원 (비밀의 정원)	jardin arrière
 용암동굴	grotte de lave
 기사	article (journal)
@@ -1070,7 +1070,7 @@ R (으)려고 하다	expression de l'intention de faire quelque chose
 몸이 떨리다, 오한이 나다	frissonner
 R-(으)ㄴ 후에 / R-후에	après...
 R-기 전에 / N-전에	avant...
-기지개	étirements
+기지개 / 기지개를 펴다	étirements / s'étirer
 취직을 하다	trouver un travail, être embauché
 안색 / 안색이 안 좋아요	couleur du visage / tu n'as pas bonne mine
 안과의사 (眼科醫師)	ophtalmologue
@@ -1180,7 +1180,7 @@ N-말고	expression du contraire (N)
 밭	 champ
 영혼	âme
 일몰/일출	lever / coucher du soleil
-해가 지다/뜨다	le soleil se lève / couche
+해가 지다/뜨다	le soleil se couche / lève
 모으다	réunir des choses, personnes
 초대장	carte d'invitation
 장식하다	décorer
@@ -1214,7 +1214,7 @@ N-말고	expression du contraire (N)
 R-다고/라고 할수 있어요	on peut dire que...
 울리다	faire pleurer
 부러워하다	envier
-띠	signe de l'année de naissance
+띠	signe de l'année de naissance / bandeau
 온돌 (溫突·溫契)	système de chauffage par le sol
 깔다	étaler, installer
 출신지	lieu de naissance, ~home
@@ -1229,7 +1229,7 @@ R-다고/라고 할수 있어요	on peut dire que...
 돗자리	natte (ex. pique nique)
  깜짝	surprise
 반 모임	réunion de classe
-예복	vêtements de cérémonie
+예복 (禮服)	vêtements de cérémonie
 변장 (變裝)	déguisement
 도시락	boîte repas
 예약을 취소 하다	annuler une réservation
@@ -1423,7 +1423,7 @@ N-을/를 떠나다	quitter N
 거품	mousse
 덜덜 떨다	trembler de froid
 금지	interdiction
-유효 기간	période de validité
+유효 기간 (有效期間)	période de validité
 추천서	lettre de recommandation
 이력서	CV
 자기소개서	lettre de présentation
@@ -1436,7 +1436,7 @@ N-을/를 떠나다	quitter N
 야외 온천장	station thermale
 얼음 낚시	pêche sous la glace
 얼다	geler
-중복 응답	plusieurs réponses possibles 
+중복 응답 (重複 應答)	plusieurs réponses possibles 
 양로원	maison de retraite
 박문관 작원	employé de musée
 공공 장소	lieu public
@@ -1469,7 +1469,7 @@ N-을/를 떠나다	quitter N
 껌을 씹다	mâcher un chewing-gum
  다리를 꼬고 앉다	s'asseoir les jambes croisées
 칠주의	attention à la peinture fraîche
- 전근금지	accès interdit
+접근금지	accès interdit
 주의 사항	points auxquels faire attention
  휴게실	salle de repos
 습관	habitude
@@ -1492,3 +1492,482 @@ N-을/를 떠나다	quitter N
 생선회	poisson cru / sashimi
 인심이 좋다/박하다	être généreux / ne pas l'être
 이를 닦다	se laver les dents
+간직 하다	conserver
+머리를 감다	se laver les cheveux
+눈을 감다/뜨다	fermer/ouvrir les yeux
+고민이다 (苦悶)	être angoissant
+걱정이다	être inquiétant
+숫자를 세다	compter
+화투	jeu de cartes coréen
+소식 하다/과식 하다	manger un peu / trop
+가볍게	légèrement
+충분 하다	être suffisant
+약속을 잘 지키다	tenir sa parole
+자세	posture
+반창고	pansement
+일기책	journal intime
+둥글다/동글다	être rond
+잠그다	fermer à clef
+상태	état
+묘사	description
+분명히	clairement
+그대로	tel quel, intact
+신발 끈을 묶다	nouer les lacets
+땅	sol, terre
+장사 /장사 하다	(petit) commerce / faire du commerce
+붙다	coller, s'attacher (intransitif)
+뚜껑	couvercle
+서류 봉투/편지 봉투	enveloppe à documents / à lettres
+건설회사	entreprise de construction
+되돌려 주다	rendre qqch à qn
+전하다	transmettre
+감탄	étonnement
+놀람	étonnement
+짧은/반 소매의 와이셔츠	une chemise blanche à manches courtes
+저고리	veste
+무덥다	faire lourd et humide
+습기가 많다	être humide
+기온이 높다/낮다	la température est élevée / basse
+건조하다	être sec (temps)
+구름이 끼다	il y a beaucoup de nuages
+서늘하다	faire froid
+불쾌지수	indice d'inconfort (température, humidité)
+<br>상쾌하다	être agréable
+습하다	être humide
+습도가 높다/낮다	le degré d'humidité est élevé / faible
+이/가 하고싶다	vouloir, manquer de (+ psychologique)
+비가 그치다	la pluie s'arrête de tomber
+햇빛이 강하다/약하다	le soleil est fort (tape)/faible
+천둥이 치다	le tonnerre frappe (bruit)
+번개가 치다	l'éclair s'abat (lumière)
+태풍이 오다	le typhon vient
+소나기가 내리다	l'averse tombe
+벼락	foudre
+푹풍(우) (푹風雨)	violent/vent/(pluie) ouragan
+빛	lumière, rayon
+잠을 깨다	"réveiller, ""casser le sommeil"""
+밤새	toute la nuit
+방금	tout à l'heure, il y a peu de temps
+바람이 세게 불어요	le vent souffle fort
+양산 (陽傘/量産)	ombrelle / production de masse
+책을 반납하다 (返納)	rendre un livre
+우편물을 받다 (郵便物)	recevoir du courrier
+짐을/가구를 옮기다	transporter, déplacer des valises/meubles
+서류를/편지를 전하다	transmettre des documents/lettres
+쉬운 말로 설명하다	expliquer avec des mots simples
+엽서	carte postale
+상황	situation
+팔을/다리를 다치다	se blesser le bras/la jambe
+혼자 하기 힘들다	c'est difficile à faire tout seul
+아끼다	économiser
+어떻게 하는지 모르다	ne pas savoir faire
+갑자기 일이 생기다	avoir soudainement un problème
+인터넷이 잘 안 되다	internet ne marche pas bien
+사용 방법을 잘 모르다	ne pas savoir comment utiliser
+R-았으면/었으면//면 좋겠다	expression du souhait (+ fort//-)
+R-(으)ㄴ지 N(temps) 되다	temps passé depuis R
+조건	condition
+지은 지 얼마 안 되다	la construction est récente
+주변에 편의 시설이 많다/적다	les équipements/installations dans le quartier sont nombreuses/peu nombreuses
+동네가 조용하다/시끄럽다	le quartier est calme/bruyant
+버스 정류장에서 가깝다/멀다	l'arrêt de bus est proche/éloigné
+방이 밝다/어둡다	la chambre est lumineuse/sombre
+마당이 있다/없다	il y a/n'y a pas de cour
+방이 넓다/좁다	la chambre est spacieuse/petite
+시설이 좋다/나쁘다	les équipements sont bons/mauvais
+전기	électricité
+난방 시스템	système de chauffage
+각오	résolution ferme
+재능이/소질이 있다	avoir un don, un talent
+흥미가 있다	avoir de l'intérêt
+경험이 있다	avoir de l'expérience
+ 보람을 느끼다	ressentir de la satisfaction
+최선을 다하다	faire au mieux
+포기하지 않다	ne pas abandonner
+일기예보 (日氣豫報)	prévision météo
+체감 온도	température ressentie
+우기 (雨期)	période de pluie
+우비 (雨備)	imperméable
+겉옷	vêtement extérieur
+택배 (宅配)	livraison à domicile
+한턱 내다	payer une tournée
+언제든지	n'importe quand
+옷맵시	habillement
+끝말 잇기	reprendre la parole
+두통	mal de tête
+안개	brouillard
+외교관	diplomate
+꽃을 키우다	faire pousser des fleurs
+부동산	bien immobilier
+부동산 중개 사무소	agence immobilière
+암벽타기	escalade
+등산	promenade en montagne
+연립 주택, 빌라	maison divisée en appartements
+단독 주택/공동 주택	maison individuelle (séparée) / habitation collective
+전원 주택	maison en banlieue
+위생시설 (衛生施設)	installations sanitaires
+방음 시설	insonorisation
+바람이 잘 통하다	le vent circule bien, bien aéré
+욕실	salle de bains
+활기천 동네, 활력있는 동네 (活力)	quartier animé
+부동산 회사	société immobilière
+이십대, 삼십대	la vingtaine, la trentaine
+빌다	prier
+보름	pleine lune
+정월	1e pleine lune (1e mois de l'année lunaire)
+ 부럼	cacahouètes, noix, noisette
+호두	noix
+견과류	fruit dur
+붕어빵	gauffre fourrée au haricot rouge
+적성에 맞다	convenir à ses compétences, capacités
+꿈을 이루다	réaliser un rêve
+바람 피다	tromper son conjoint
+바람둥이	coureur de jupons
+잠옷 바람으로	en portant des vêtements de nuit, très légers
+거칠다	être rude, grossier
+꿈틀거리다	se tortiller
+꺾이다	être cassé, plié, tordu
+초라하다	être miteux
+수수께끼	énigme
+향긋하다	sentir bon
+간이역	petite gare
+뭉게구름	nuage épais, cumulus
+모험가	aventurier
+귀신	fantôme
+거지	sdf
+굳다	durcir (pain, terre, résolution)
+슬무원	équipage (avion, bateau)
+장애인	handicapé
+도난당하다	se faire voler
+보험	assurance
+훔치다	voler
+정신없이 지내다	être très occupé
+성격, 성질, 성품	caractère
+명품	produit de luxe
+일물 묘사	description des personnes
+믿음적 하다	etre digne de confiance
+책임감 하다	avoir le sens des responsabilités
+믿을 만하다	être digne de confiance
+머리가 좋다	être intelligent
+성실하다 (誠實)	être sincère, sérieux
+글끼	écriture
+보이다	être vu, se voir (passif) / faire voir (causatif)
+지겹다	en avoir marre/être fastidieux
+스트레스가 쌓이다	être stressé
+스트레스를 풀다 / 스트레스가 풀리다	se débarrasser du stress
+공무원	fonctionnaire
+ 대중/대중가요	de masse / chanson populaire
+뽑다	choisir, arracher
+대통령을 뽑다	choisir un président
+이를 뽑다	arracher une dent
+비핵화 (非核化)	dénucléarisation
+흰 비둘기	colombe blanche
+검토하다 (檢討)	vérifier, examiner (les faits)
+복사기	photocopieur
+"""눈코뜰새 없이 바빠요"""	être très occupé (expr)
+아이들을 돌보다	garder, s'occuper des enfants
+근대화 [近代化]	modernisation
+일상 생활	vie quotidienne
+찍다	tremper
+녹색 고추, 풋고추	piment vert, jeune
+외국에서 생활하다	vivre à l'étranger
+외국에서 근무하다	travailler à l'étranger
+외국계 회사에 취직하다	travailler dans une filiale d'une société étrangère
+어학연수를 가다	partir pour un stage linguistique
+외국 대학에 입학하다	entrer dans une université étrangère
+유학하다	étudier à l'étranger
+이민을 가다	émigrer
+고향으로 돌아가다	retourner dans sa ville natale
+귀국 하다	retourner dans son pays
+광부	mineur (travaille dans une mine)
+정도	environ, à peu près / niveau
+한국어 실력이 어느 정도 돼요?	quel est votre niveau de coréen?
+적응 하다	s'adapter, être adapté
+N-에 익숙하다	être habitué à
+R-(으)ㄴ 지 N-temps 되다/지나다/흐르다/넘다	expression du temps passé depuis N
+시간 참 빠르네요	le temps passe vite
+거의 다	presque tout
+아직 멀었어요	j'en suis loin
+마지막으로 연락하다	contacter pour la dernière fois
+얼마 안 됐어요, 오래 안 됐어요	ça ne fait pas longtemps
+오래 됐어요	ça fait longtemps
+느낌	sentiment
+긴장 하다	être tendu, nerveux
+낯설다	être étranger, peu familier
+낯	visage (peu courant)
+R-게 되다 (V action)	être amené à, expression d'un changement
+못 가게 됬어요	je suis, j'ai été amené à ne pas y aller (peut être pas encore realisé)
+얼마 전에	il y a quelque temps
+지하철 반대로 타요	prendre le métro dans le mauvais sens
+1위	1e position, 1e rang
+이래(서) < 이렇다	parce que, à cause de ça
+점	point
+우정	amitié
+영원하다	être éternel
+부정적 이다/긍정적 이다 (否定的/肯定的)	être negatif/positif
+통하다	communiquer, circuler
+여유있게	avec du temps libre
+글쓴이	personne qui a écrit le texte
+게시 하다	afficher
+모임을 가지다	avoir une réunion
+식사를 함께 하다	préparer le repas
+음식을 대접하다	servir de la nourriture pour accueillir les invités
+(으)ㄹ까 하다	exprime l'intention de faire qqch, incertaine
+중고	occasion, seconde main
+가구	meuble
+초대해 줘서 고마워요	merci de m'avoir invité
+꼭 갈게요/참석 할게요	je viendrai quoi qu'il arrive
+일이 많아서 참석하기 어려워요	comme j'ai beaucoup de travail, ce sera difficile de participer
+일정 확인해 보고 다시 연락드릴게요	je vais vérifier mon agenda et vous contacter
+바쁘실 텐데 와 주셔서 감사해요	bien que vous soyez occupé, je vous remercie d'être venu
+터 (dans 텐데)	lieu, chose
+아쉽지만 어쩔수 없네요	c'est dommage, mais il n'y a pas d'autre solution
+가까운 분들	des gens proches (fig)
+R-하는 거예요 ?	"construction de soulignement, ""c'est vrai que...?"""
+정성껏	avec beaucoup de soin (adv)
+마음껏	à volonté, avec beaucoup de coeur
+싱경을 쓰다	être attentif, s'occuper de quelque chose
+여러가지	de différentes sortes, varié
+경우 / 경우에는	cas / au cas où
+건강을 유지하다	conserver, maintenir une bonne santé
+나쁜 습관을 고치다	corriger les mauvaises habitudes
+좋은 성적을 받다	avoir, recevoir de bons résultats
+규칙적으로 생활하다	avoir une vie très planifiée (~routine)
+실력을 높이다	développer ses capacités
+돈을 모으다	économiser de l'argent
+꾸준히 운동하다	faire du sport avec assiduité
+거피를 줄이다	diminuer sa consommation de café
+독서를 하다	lire des livres, faire une lecture
+할일을 미루지 않다	ne pas repousser les choses à faire
+술을/담배를 끊다	arrêter l'alcool/la cigarette
+채소를 많이 먹다	consommer beaucoup de légumes
+연습하다	s'entraîner
+돈을 아껴쓰다	utiliser l'argent avec parcimonie
+목록	table des matières
+적금 통장	livret de compte d'épargne
+웬일	comment se fait-il que, quelle raison, quelle chose.
+배낭여행	voyage en routard
+문화생활	vie civilisée
+알차다	être complet
+쓸데없다	être inutile, superflu
+마련하다	établir un plan, prendre des mesures
+줄넘기 줄	corde à sauter
+싫증	dégoût
+싫증이 날 정도...	jusqu'au niveau où le dégoût est ressenti
+직장	lieu de travail
+드물다/흔하다	être rare / abondant
+대부분	majorité, plupart
+대부분의 경우	La plupart des cas
+출장 요리사	cuisinier à domicile (aide)
+때때로, 가끔	parfois
+주거	domicile
+꾸미다	décorer
+두르다	entourer, ceindre
+ 필승 (必勝)	"""réussir absolument"""
+승리하다	être victorieux
+합격하다	réussir un examen
+패배 (敗北)	défaite
+최근	récemment
+"""작심 삼일"""	une résolution ne dure que 3 jours
+살을 빼다, 살이 빠지다	perdre du poids
+"""마음을 먹다"""	prendre une résolution (expr)
+존대 (尊待)	respect
+대단하다	être formidable
+체육관	salle de sport
+1개 이상/이하/미만	>= 1 / <=1 / >1
+미세 먼지	poussière fine
+나물	légumes en plat préparé
+소비량 (消費量)	quantité consommée
+주류	boisson alcoolisée
+수량	volume, quantité
+돈을 쫓다	rechercher, pourchasser l'argent
+저축	épargne
+알약	pilule, comprimé
+곡식의 알	graine de céréale
+평균 성적	note moyenne
+생활비	frais de la vie courante
+건강하고 알찬, 한해를 위하여	pour une année en bonne santé et bien remplie
+자연 환경 보호	protection de l'environnement naturel
+착각하다	se tromper
+줄을 세우다	faire la queue
+새치기 하다	doubler
+솜	coton
+갈기	crinière
+흉내를 내다	imiter
+소비량	consommation
+책임감이 있다	être responsable
+긋다	tracer une ligne
+붓다	être gonflé, verser
+신경을 쓰다	être attentif (utiliser ses nerfs)
+공지 사항	annonce publique
+놀랍다 (adj)	être étonnant
+믿음직스럽다	être digne de confiance
+조상	ancêtres
+R-(으)ㄹ 턴데	supposition, ~ㄹ것 같아요
+인정 차별	discrimination raciale
+남녀 차별	discrimination hommes femmes
+지역 차별	discrimination selon les régions
+세대 차이	différence générationnelle
+소리를 내면서 음식을 먹다	manger bruyamment
+식당에서 팁을 주다	donner un pourboire au restaurant
+삼키다, 삼켜 먹다	avaler (ex. médicament)
+씹다	mâcher
+축의금/조의금	argent versé pour une fête / un défunt
+ 음식 값을 각자 내다	payer chacun son repas
+선배가 후배에게 밥을 주다	un ancien paie à manger à un junior
+반말을 하다/말을 놓다	tutoyer
+존댓말 하다	vouvoyer
+그러고 보니까	se rendre compte de quelque chose
+피로연	fête après un mariage
+R-도록	afin que, de sorte que ; ordre attenué
+사회적 신분	rang social
+교회	temple protestant
+교외	banlieue
+무교	sans religion
+유교	confucianisme
+샤마니즘	chamanisme
+불교	boudhisme
+기독교	christianisme
+대조	contraste
+어색하다	être gênant, inconfortable
+홀수/쩍수	nombre impair / pair
+이별	séparation
+중동	moyen orient
+손수건	mouchoir
+미신 (迷信)	superstition
+정열	passion
+복경	Beijing
+개인적인 질문	question personnelle
+정 / 한	sentiment sympathique, chaleureux // mélancolie, regret
+호기심	curiosité
+삼박 사일	3 nuits, 4 jours
+심지어	même, en outre
+제작하다	fabriquer, produire
+방편 (方便)	moyen
+정책	politique, ligne de conduite
+운영	administration, gestion
+혜택 (惠澤)	bienfait, faveur, avantage
+노선 (路線)	route, ligne, itinéraire
+의무적으로	obligatoirement
+휴업일	jour de fermeture (commerce)
+규제	restriction
+부흥기	renaissance
+개통	ouverture, inauguration
+말이 짧아지다	tutoyer, raccourcir la parole
+이웃 나라	pays voisin
+포장 하다	emballer (cadeau)
+관광객	touriste
+제국	empire
+드디어	finalement
+R-고요 (R-구요)	terminaison indiquant qu'il y a autre chose à ajouter
+자세히	en détails (adv)
+비녀 (婢女)	épingle à cheveux
+관람 시간	heure de visite
+수단	moyen
+도구	instrument, véhicule de la pensée
+예매하다	acheter un billet en avance
+표를 교환하다	échanger un billet
+발급 / 표를 발급 받다	délivrance / délivrer un billet
+자동 발급기	guichet automatique
+매표소	guichet (avec un employé)
+관람 하루 전까지	jusqu'à un jour avant votre visite
+유산	patrimoine
+별도	séparé, non inclus
+단체 할인	réduction pour les groupes
+연기하다 / 앞당기다	retarder / avancer
+무인도	ile inhabitée
+무박 3일	2 nuits blanches
+비행기 착륙/이륙	décollage / atterrissage
+이체	virement
+계좌, 구좌	compte bancaire
+송금	virement international
+의도, 의향	intention, volonté
+만원이다	être complet (hôtel)
+며칠 전에...	il y a quelques jours
+등급	classement
+최우 등석/우등석/일반석	meilleur siège / excellent / ordinaire
+새치 머리	avec un peu de cheveux blancs
+당황하다	être embarrassé
+R-(으)ㄹ 뻔하다	faillir...
+초과 예약	overbooking
+안심 하다	être rassuré
+사건	événement
+우연히	par chance
+우연	coïncidence
+필연	chose prédestinée
+속상하다	être chagriné, peiné
+창피하다	être honteux
+유쾌하다 != 불쾌하다	être agréable, plaisant, gai
+상하다	être blessé, abimé
+밤을 새우면서...	en passant une nuit blanche
+구별하다	distinguer
+조리법	recette de cuisine
+재료	ingrédient
+음식 만드는 도구	instruments de cuisine
+숙주나물	haricots mungo
+두유	lait de soja
+얹다	mettre qqch sur qqch
+도라지	campanule
+홍합	moule
+미나리	sorte de persil
+가재	langoustine
+꿩	faisan
+닥나무	murier
+잔 받침	support à verres
+향신료	épice, pour relever le goût
+파스타를 삶다	faire bouillir des pâtes
+썰다	couper très fin
+다듬다	couper, tailler (légumes)
+다지다	hacher
+날씨가 푹푹 쪄요	"le temps est chaud, ""on cuit"""
+양념	assaisonnement
+순서	ordre (1, 2, 3...)
+껍질	peau d'un fruit
+채	finement
+사극	film, drama historique
+왕세자	fils du roi
+옥탑방	terrasse sur le toit, dernier étage
+위인	les grands hommes
+관객	spectateur
+시청자	téléspectateur
+정장	costume, tailleur
+양복	costume sur mesure (peu utilisé)
+잠옷	pyjama
+잠바	veste, blouson
+R-에다가	ainsi que (lieu, objet) / indiquer un lieu
+칭찬하다 // 비판하다	complimenter // critiquer
+두루마기	manteau traditionnel, porté avec 한복
+웃옷	manteau, vêtement pour sortir
+윗옷/아래옷	vêtement haut/bas
+성향	caractéristique
+개성이 있다	avoir de la personnalité, son style
+뒤처지다	traîner, perdre du terrain
+즐겨 입다	porter souvent un vêtement
+애가 타다	être anxieux
+유머 감각이 있다 (感覺)	avoir le sens de l'humour
+자신감이 있다	avoir confiance en soi
+예의가 바르다	être poli
+따라 하다	imiter
+자신감이 생기다 (自信感)	avoir confiance en soi
+시간이 부족이다	il n'y a pas assez de temps
+반복하다	répéter
+실력이 늘다	la capacité augmente
+"insistance, ~""je ne sais pas combien..."""	얼마나 R-는지/(으)ㄴ지 모르다
+부정하다	nier, démentir
+R-기는요	nier avec emphase / accepter modestement un compliment
+부끄러움을 타다	être timide
+남의 말을 잘 듣다	écouter bien les autres (positif ou négatif)
+이해심이 많다	être compréhensif
+고집이 세다	être têtu, obstiné
+활발하다 (活潑)	être actif, vif
+여유가 있다	avoir du temps
+적극적이다	être actif
+성격이 급다	être impatient
+덤벙대다	être imprudent
+꼼꼼하다	être minutieux
+소극적이다	être passif
+짐작 하다	supposer
+흥미롭다	être intéressant
+영상이 아름답다	l'image est belle (dans un film)
+기억에 오래 남다	rester longtemps dans la mémoire
+줄거리	synopsis
